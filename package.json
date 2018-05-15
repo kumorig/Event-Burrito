@@ -1,0 +1,19 @@
+{
+  "name": "event-burrito",
+  "version": "1.0.0",
+  "description": "Event Burrito\r =============",
+  "main": "eventburrito.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumorig/Event-Burrito.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumorig/Event-Burrito/issues"
+  },
+  "homepage": "https://github.com/kumorig/Event-Burrito#readme"
+}
