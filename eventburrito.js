@@ -5,7 +5,7 @@
  *
  * MIT License
  */
-function EventBurrito(_this, options) {
+module.exports = function EventBurrito(_this, options) {
 
     var noop = function() {},
         o = {
